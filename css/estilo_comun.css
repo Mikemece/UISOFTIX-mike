@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #58ccc2;
+}
+  
+#busca{
+    background-color: #c3f3e7;
+}
+
+#busca:hover{
+    background-color: #aac9c1;
+}
+
+.fixed-bottom{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+main#libros{
+    padding: 30px;
+    margin-top: 40px;
+}
+
+.card-img-top{
+    max-width: 170px;
+    align-self: center  ;
+}
+
+
